@@ -13,6 +13,7 @@ build:
     paths:
      - HelloWorld.*
 
+# only run this stage on MRs
 execute:
   stage: execute
   script: /usr/lib/jvm/java-8-openjdk-amd64/bin/java HelloWorld
