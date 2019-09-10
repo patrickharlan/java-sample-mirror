@@ -16,3 +16,6 @@ build:
 execute:
   stage: execute
   script: /usr/lib/jvm/java-8-openjdk-amd64/bin/java HelloWorld
+  only:
+    refs:
+      - merge_requests
