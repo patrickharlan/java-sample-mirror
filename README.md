@@ -4,3 +4,4 @@ with a simple change.
 Another line...
 
 Simple commit to master, no PR
+Second commit
