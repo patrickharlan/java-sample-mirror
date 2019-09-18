@@ -18,5 +18,4 @@ execute:
   stage: execute
   script: /usr/lib/jvm/java-8-openjdk-amd64/bin/java HelloWorld
   only:
-    refs:
-      - external_pull_requests
+    - external_pull_requests
