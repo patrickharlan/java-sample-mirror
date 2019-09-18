@@ -3,8 +3,6 @@ with a simple change.
 
 Another line...
 
-Simple commit to master, no PR
-Second commit
-Now a PR at 5:47ish  
+This is a PR for deploy to gstg environment
+again
 
-Now it's late. Last PR
